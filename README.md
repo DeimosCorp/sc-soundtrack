@@ -1,5 +1,11 @@
 # sc-soundtrack
 
+## Disclaimer
+
+Personal, non-commercial use.
+
+Read the ToS from CIG https://robertsspaceindustries.com/tos
+
 
 ## Star Citizen
 
